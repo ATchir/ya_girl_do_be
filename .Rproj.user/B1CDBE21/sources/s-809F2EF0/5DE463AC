@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562100072956.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2776905858",
+    "id" : "5DE463AC",
+    "lastKnownWriteTime" : 1562100144,
+    "last_content_update" : 1562100144059,
+    "path" : "C:/Users/atchi/Desktop/ya_girl_do_be/Nymphadora.R",
+    "project_path" : "Nymphadora.R",
+    "properties" : {
+        "cursorPosition" : "1,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
